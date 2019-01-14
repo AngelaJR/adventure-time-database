@@ -30,12 +30,17 @@ The databases keeps track of the thrill seeking adventures for all the outdoorsy
 ### ERD 
 This ERD shows the relationships among all the table in the database.
 
-![]()
+![](ERDiagram.png)
+
+### Build With
+Python
+MySQL
 
 ### Authors
 Angela Raymond
 Darla Hongmanivanh
 
-  
+### License
+This project is licensed under the MIT license, Copyright (c) 2018 Maximilian Stoiber. For more information see LICENSE.md.
 
 
