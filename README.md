@@ -10,12 +10,12 @@ The databases keeps track of the thrill seeking adventures for all the outdoorsy
 
 ### Database Structure
 - Customer: This table holds all the important Customer contact information.
-- Reservation: 
+- Reservation: </br>
   • This table indicates :
     - The date of the adventure.
     - The number of people reserved for the adventure.
     - The price of the adventure per person.
-- Tour:
+- Tour: </br>
   • A basic term for our fun adventures where:
     - The cool name of each adventure is stored.
     - The location of each adventure.
@@ -33,11 +33,12 @@ This ERD shows the relationships among all the table in the database.
 ![](ERDiagram.png)
 
 ### Build With
-Python
+Python </br>
 MySQL
 
 ### Authors
-Angela Raymond & Darla Hongmanivanh
+Angela Raymond </br>
+Darla Hongmanivanh
 
 ### License
 This project is licensed under the MIT license, Copyright (c) 2018 Maximilian Stoiber. For more information see LICENSE.md.
