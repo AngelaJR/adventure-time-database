@@ -37,8 +37,7 @@ Python
 MySQL
 
 ### Authors
-Angela Raymond
-Darla Hongmanivanh
+Angela Raymond & Darla Hongmanivanh
 
 ### License
 This project is licensed under the MIT license, Copyright (c) 2018 Maximilian Stoiber. For more information see LICENSE.md.
